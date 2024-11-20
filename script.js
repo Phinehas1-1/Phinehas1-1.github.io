@@ -1,7 +1,7 @@
 const data = [
     {
         id: 1,
-        title: "Book",
+        title: "Phone",
         image: "phone.jpeg",
         price: 499.99
     },
