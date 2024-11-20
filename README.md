@@ -1,6 +1,3 @@
-Below is the detailed **README.md** file explaining each line of the code.
-
----
 
 # Dynamic Elements Application
 
